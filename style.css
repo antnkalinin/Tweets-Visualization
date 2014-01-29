@@ -1,0 +1,42 @@
+body {
+  padding: 5px;
+}
+
+#start {
+  border: 1px solid brown;
+  cursor: pointer;
+  padding: 5px;
+  margin: 5px;
+}
+
+#checkbox_list {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.close_img {
+  width: 16px;
+  float: right;
+  cursor: pointer;
+  margin: 2px 0 0 0;
+  clear: both;
+}
+
+div.bar {
+  display: inline-block;
+  width: 20px;
+  height: 75px; /* We'll override this later */
+  background-color: teal;
+  margin-right: 2px;
+}
+
+.pumpkin {
+  fill: yellow;
+  stroke: orange;
+  stroke-width: 5;
+}
+
+.wq {
+  margin: 5px;
+}
