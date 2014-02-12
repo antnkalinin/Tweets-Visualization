@@ -9,13 +9,13 @@ body {
   margin: 5px;
 }
 
-#checkbox_list {
+#checkbox-list {
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 5px;
 }
 
-.close_img {
+.close-img {
   width: 16px;
   float: right;
   cursor: pointer;
